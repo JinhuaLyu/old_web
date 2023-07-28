@@ -48,7 +48,7 @@ Before joining UT-Austin, I pursued Finance Management at Nankai University. How
 
 - Designing Electricity Vehicle Charging Infrastructure to Enable Disaster Evacuation, supervised by [Prof. Benjamin D. Leibowicz](https://sites.utexas.edu/leibowicz/)
 
-- Weekly Schedule for Train Engineers, supervised by [Prof. Bard](https://www.me.utexas.edu/people/faculty-directory/bard)
+- Weekly Schedule for Train Engineers, supervised by [Prof. Jonathan F. Bard](https://www.me.utexas.edu/people/faculty-directory/bard)
 
 ​       
 
