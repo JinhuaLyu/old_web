@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>jh.lyu@utexas.edu</a>
+subtitle: <a href='#'>jinhualyu2028@u.northwestern.edu</a>
 
 profile:
   align: right
@@ -20,11 +20,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello! I am second-year graduate student in the [Operations Research and Industrial Engineering Program (ORIE)](https://www.orie.utexas.edu/) at the University of Texas at Austin. 
+Hello everyone! I am an incoming PhD student at [Northwestern IEMS department](https://www.mccormick.northwestern.edu/industrial/). I achieved my M.S. in Engineering degree at University of Texas at Austin, majoring in Operations Research. I am honored to be advised by [Prof. Jonathan F. Bard](https://sites.utexas.edu/bard/) at UT-Austin on my master thesis. Before that, I received my bachelor degree from Nankai University.My research interests lie in developing algorithms for optimization problems.
 
-In my first year of study, I conducted research on EV charging network infrastructure allocation using Two-Stage Stochastic Program. Currently, I am focusing on solving the weekly schedule problem using Mixed-Integer Programming for my thesis project.
 
-Before joining UT-Austin, I pursued Finance Management at Nankai University. However, my passion for Operations Research was ignited when I participated in an ICM mathematical modeling competition. I derive immense satisfaction from exploring mathematical models and applying them to real-life problem.
 
 ​        
 
@@ -34,9 +32,12 @@ Before joining UT-Austin, I pursued Finance Management at Nankai University. How
 
 ## Education 
 
+**Sep 2024 ~**     &ensp;&emsp;&emsp;&ensp;&emsp;&emsp;&ensp;&emsp;    Ph.D. student in IEMS, Northwestern University
+
+**Sep 2022 ~ May 2024**     &ensp;&emsp;   M.S. in Operations Research, University of Texas at Austin
+
 **Sep 2018 ~ Jul 2022**  &emsp; &emsp; Bachelor in Finance Management, Nankai University
 
-**Sep 2023 ~  Present**     &ensp;&emsp;&emsp;    Master in Operations Research, University of Texas at Austin
 
 ​      
 
@@ -56,14 +57,12 @@ Before joining UT-Austin, I pursued Finance Management at Nankai University. How
 
 
 
-## Teaching
+## Teaching Assistant
 
-- ME 335: Engineering Statistics (2022-2023), Teaching Assistant
+- M 325K: Discrete Mathematics (Spring 2024, Mathematics Department)
+- M 408D: Sequences, Series, and Multivariable Calculus (Fall 2023, Mathematics Department)
+- ME 353: Engineering Finance (Summer 2023, Mechenical Engineering Department)
+- ME 335: Engineering Statistics (Fall 2022 - Spring 2023, Mechenical Engineering Department)
 
-  Senior undergraduate class in statistics, leading recitation classes, grading and holding office hour.
-
-- ME 353: Engineering Finance (2023), Teaching Assistant
-
-  Senior undergraduate class in finance, grading and holding office hour
 
 ​         
