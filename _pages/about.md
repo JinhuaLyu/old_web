@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello everyone! I am an incoming PhD student at [Northwestern IEMS department](https://www.mccormick.northwestern.edu/industrial/). I achieved my M.S. in Engineering degree at University of Texas at Austin, majoring in Operations Research. I am honored to be advised by [Prof. Jonathan F. Bard](https://sites.utexas.edu/bard/) at UT-Austin on my master thesis. Before that, I received my bachelor degree from Nankai University.My research interests lie in developing algorithms for optimization problems.
+Hello everyone! I am an incoming PhD student at [Northwestern IEMS department](https://www.mccormick.northwestern.edu/industrial/). I achieved my M.S. in Engineering degree at University of Texas at Austin, majoring in Operations Research. I am fortunate to be advised by [Prof. Jonathan F. Bard](https://sites.utexas.edu/bard/) at UT-Austin on my master thesis. Before that, I received my bachelor degree from Nankai University.My research interests lie in developing algorithms for optimization problems.
 
 
 
